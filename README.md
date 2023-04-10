@@ -10,6 +10,6 @@
 
 ## You can Check it Live on Below Link :
 
-> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://zustand-practice-project-todo-sj.netlify.app/)
+> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://react-tic-tac-toe-theta.vercel.app/)
 
 ---
